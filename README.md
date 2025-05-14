@@ -10,6 +10,14 @@
   Bank sector need to trace transactional data for their customer. the goals is to identify which credit in/out transaction. Credit in indicate the customer name is listed on data warehouse. So, they need data processing pipeline for identifying exact customer name based on data warehouse from a thousand hundred unstructured text. <br> <i>Source code is confidential data</i>
 </p>
 
+<p align="center">
+    <img alt="Pandas" title="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff"/>
+  <img alt="Numpy" title="Numpy" src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff"/>
+  <img alt="Spacy" title="Spacy" src="https://custom-icon-badges.demolab.com/badge/Spacy-blue.svg?logo=package&logoColor=white"/>
+  <img alt="FuzzyWuzzy" title="FuzzyWuzzy" src="https://custom-icon-badges.demolab.com/badge/Fuzzy%20Wuzzy-orange.svg?logo=zap&logoColor=white"/>
+</p>
+
+
 ---
 
 ### Program Tasks
