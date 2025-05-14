@@ -11,6 +11,10 @@
 </p>
 
 <p align="center">
+    <img alt="Python" title="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+</p>
+
+<p align="center">
     <img alt="Pandas" title="Pandas" src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff"/>
   <img alt="Numpy" title="Numpy" src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff"/>
   <img alt="Spacy" title="Spacy" src="https://custom-icon-badges.demolab.com/badge/Spacy-blue.svg?logo=package&logoColor=white"/>
